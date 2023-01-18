@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoTracker-app/static/css/main.7cf4a608.css",
+    "main.js": "/CryptoTracker-app/static/js/main.5557bb1b.js",
+    "index.html": "/CryptoTracker-app/index.html",
+    "main.7cf4a608.css.map": "/CryptoTracker-app/static/css/main.7cf4a608.css.map",
+    "main.5557bb1b.js.map": "/CryptoTracker-app/static/js/main.5557bb1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf4a608.css",
+    "static/js/main.5557bb1b.js"
+  ]
+}
